@@ -32,7 +32,7 @@
     "babel-preset-es2015-rollup": "^3.0.0",
     "babel-preset-stage-2": "^6.24.1",
     "cross-env": "^5.0.5",
-    "eslint": "^4.7.2",
+    "eslint": "^9.39.1",
     "eslint-config-i-am-meticulous": "^7.0.1",
     "eslint-config-prettier": "^2.6.0",
     "eslint-config-prettier-standard": "^1.0.1",
@@ -53,7 +53,7 @@
     "rollup-plugin-json": "^2.3.0",
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-plugin-uglify-es": "0.0.1",
-    "rollup-plugin-vue": "^3.0.0",
+    "rollup-plugin-vue": "^6.0.0",
     "vue-template-compiler": "^2.5.13"
   }
 }
